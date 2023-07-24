@@ -1,0 +1,6 @@
+{
+    "parent": "crossbowbackport:item/crossbow",
+    "textures": {
+        "layer0": "crossbowbackport:items/crossbow_pulling_0"
+    }
+}

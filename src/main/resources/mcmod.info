@@ -1,7 +1,7 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
+  "modid": "crossbowbackport",
+  "name": "Crossbow Backport",
   "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
